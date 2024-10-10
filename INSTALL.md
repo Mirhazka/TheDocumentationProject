@@ -38,6 +38,12 @@ TEXTE
 <summary><strong><font size="+1">Installation des postes clients</font></strong></summary>
 TEXTE
 
+## Prérequis pour les poste clients 
+         * poste client sous linux ou windows 
+         * accées réseau entre security onion et le client 
+         * Adresse IP pour le serveur de Security Onion 
+
+
 </details>
 <HR>
 

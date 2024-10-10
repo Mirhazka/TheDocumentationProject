@@ -41,9 +41,9 @@ TEXTE
 
 ## Prérequis pour les postes clients
 
-- Poste client sous Linux ou Windows
+- Poste client sous Linux 
 - Accès réseau entre Security Onion et le client
-- Adresse IP pour le serveur de Security Onion
+- Adresse IP Statique pour le serveur de Security Onion
 
 </details>
 <HR>

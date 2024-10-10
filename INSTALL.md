@@ -38,11 +38,12 @@ TEXTE
 <summary><strong><font size="+1">Installation des postes clients</font></strong></summary>
 TEXTE
 
-## Prérequis pour les poste clients 
-<br>   - Poste client sous linux ou windows 
-<br>   - Accées réseau entre security onion et le client 
-<br>   - Adresse IP pour le serveur de Security Onion 
 
+## Prérequis pour les postes clients
+
+- Poste client sous Linux ou Windows
+- Accès réseau entre Security Onion et le client
+- Adresse IP pour le serveur de Security Onion
 
 </details>
 <HR>
@@ -55,15 +56,17 @@ TEXTE
 
 <details>
 <summary><strong><font size="+1">Installation du poste serveur CentOS de Security Onion</font></strong></summary>
-TEXTE
- <br> Dans cette partie on explique  explique comment installer Security Onion sur un serveur tournant sous Linux CentOS :
- <br> 1- Configuration et instalation de Security Onion.
- <br>    https://securityonion.net/  
- <br> 2- installer Security Onion sur un système CentOS.
- <br> 3- Configuration du serveur
- <br>       a- Configurer une adresse IP statique pour le serveur.
- <br>       b- Sélectionner les composants à installer comme Elasticsearch, Suricata, Zeek, etc
- <br>       4- La maise en place des outils d'analyse   
+
+ Dans cette partie, nous expliquons comment installer **Security Onion** sur un serveur tournant sous Linux CentOS :
+
+1. [Configuration et installation de Security Onion](https://securityonion.net/)
+2. Installer Security Onion sur un système CentOS.
+3. Configuration du serveur :
+   - Configurer une adresse IP statique pour le serveur.
+   - Sélectionner les composants à installer comme **Elasticsearch**, **Suricata**, **Zeek**, etc.
+4. Mise en place des outils d'analyse.
+</details>
+
   
 </details>
 <HR>

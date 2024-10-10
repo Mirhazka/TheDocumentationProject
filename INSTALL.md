@@ -13,7 +13,7 @@
 
 <details>
 <summary><strong><font size="+1">Pré-requis technique</font></strong></summary>
-TEXTE
+
 
 ## installation de security onion 
 <br>        avoir 3 Machine 
@@ -36,10 +36,8 @@ TEXTE
 
 <details>
 <summary><strong><font size="+1">Installation des postes clients</font></strong></summary>
-TEXTE
 
-
-## Prérequis pour les postes clients
+## les postes clients
 
 - Poste client sous Linux 
 - Accès réseau entre Security Onion et le client

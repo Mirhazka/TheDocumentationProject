@@ -61,7 +61,7 @@
 2. Installer Security Onion sur un système CentOS.
 3. Configuration du serveur :
    - Configurer une adresse IP statique pour le serveur.
-   - Sélectionner les composants à installer comme **Elasticsearch**, **Suricata**, **Zeek**, etc.
+   - Sélectionner les composants à installer comme **Elasticsearch/Kibana**, **Suricata**, **Zeek**.
 4. Mise en place des outils d'analyse.
 </details>
 

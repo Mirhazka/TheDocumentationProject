@@ -1,6 +1,12 @@
 <div align="center"><h1>Plateforme de surveillance de sécurité</h1></div>
 <div align="center"><h2>Documentation pour les administrateurs</h2></div>
-<br>
+<br>  
+      
+## installation de security onion 
+<br>        avoir 3 Machine 
+<br>              1 Machine avec un os windows
+<br>              2 Machine avec un os linux 
+<br>              3 Le logiciel Security Onion qui dispose de son propre OS serveur Linux CentOS.
 <br>
 <br>
 

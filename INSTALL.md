@@ -56,6 +56,14 @@ TEXTE
 <details>
 <summary><strong><font size="+1">Installation du poste serveur CentOS de Security Onion</font></strong></summary>
 TEXTE
+ <br> Dans cette partie on explique  explique comment installer Security Onion sur un serveur tournant sous Linux CentOS :
+ <br> 1- Configuration et instalation de Security Onion.
+ <br>    https://securityonion.net/  
+ <br> 2- installer Security Onion sur un système CentOS.
+ <br> 3- Configuration du serveur
+ <br>       a- Configurer une adresse IP statique pour le serveur.
+ <br>       b- Sélectionner les composants à installer comme Elasticsearch, Suricata, Zeek, etc
+ <br>       4- La maise en place des outils d'analyse   
   
 </details>
 <HR>

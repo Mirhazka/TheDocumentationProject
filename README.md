@@ -4,11 +4,6 @@
 <br>
 <br>
 
-
-
-
-
-
 <details>
 <summary><strong><font size="+1">Présentation du projet & des objectifs</font></strong></summary>
 
@@ -26,24 +21,27 @@ A la volonté du client, cette plateforme sera basé sur le logiciel Security On
 Notre objectif secondaire est de mettre en place des règles de détection intrusion sur le réseau du client.
 
 ### _Les livrables_
-
-
-Les livrables sont les résultats ou les produits finaux du projet qui sont livrés au client ou aux parties prenantes.
-Ils peuvent inclure rapports, documents, logiciels, etc.
-Un dépôt Git/github par groupe dont le nom est sous la forme TSSR-2409-P1-Gx (avec x le numéro du groupe de projet).
+Ce projet est livré avec trois documentations :
+<dl>
+  <dt>README - Documentation Générale</dt>
+  <dd>Ce document est une présentation générale de notre projet.</dd>
+  <dt>INSTALL - Documentation pour les administrateurs</dt>
+  <dd>Ce document est une présentation pour les administrateurs qui devront installés les machines serveurs & clientes.<br>
+  Il est livré avec un FAQ.</dd>
+  <dt>USER_GUIDE - Documentation pour les utilisateurs</dt>
+  <dd>Ce document est une présentation pour les utilisateurs qui décrira comment utiliser le système.<br>
+  Il est livré avec un FAQ</dd>
+</dl>
 
 </details>
 <HR>
 
-
-
-
-
-
 <details>
 <summary><strong><font size="+1">Introduction & mise en contexte</font></strong></summary>
 
-
+> Dans le monde actuel, il est nécessaire de pouvoir se prémunir des dangers et des intrusions de la manière la plus efficace possible.<br>
+Ce projet nous a permit de voir la vulnérabilité d'un réseau et nous a appris à comment se protéger et détecter les intrusions.
+ 
 </details>
 <HR>
 
@@ -55,17 +53,30 @@ Un dépôt Git/github par groupe dont le nom est sous la forme TSSR-2409-P1-Gx (
 
 <details>
 <summary><strong><font size="+1">Membres du groupe du projet</font></strong></summary>
-Vous trouverez ci-dessous les membres de notre équipe avec leur rôle et tâche respective.
-<dl>
-  <dt>Sybill Gribonval</dt>
-  <dd>Scrum Master<br>
-  S'est occupée des machines clientes et de la recherche sur la mise en place d'une plateforme de surveillance de sécurité.</dd>
-  <br>
-  <dt>Hamza Malki</dt>
-  <dd>Product Owner<br>
-  S'est occupé du serveur Security Onion et son installation complète.</dd>
-</dl>
+
+#### Le groupe est composé de :
+  * Sybill GRIBONVAL
+  * Hamza MALKI
+
+##### Scrum Master
+Un Scrum Master ficilite l'application du sprint et de ses tâches.
+
+##### Product Owner
+Un Product Owner est le porteur de la vision du client et fait en sorte que sa vision soit respecté.
+
+##### Semaine 1
+
+Membre | Rôles | Tâches  
+--- | --- | ---
+Sybill | Scrum Master | Recherche sur les plateformes de surveillance de sécurité réseau. <br> Création des fichiers Markdown sur GitHub.
+Hamza | Product Owner | Recherche sur le logiciel Security Onion. <br> Recherche sur le serveur Linux CentOS pour Security Onion.
   
+##### Semaine 2
+
+Membre | Rôles | Tâches  
+--- | --- | ---
+Sybill | Product Owner | 
+Hamza | Scrum Master | 
 </details>
 <HR>
 

@@ -13,7 +13,7 @@
 ### Wireshark
 [Wireshark](https://www.wireshark.org/) est un outils de surveillance réseau. Il capture les flux en direct et permet de les analyser ensuite. Il prend en charge les principaux protocoles de chiffrement, afin de pouvoir comprendre les flux malgré les dispositifs de sécurité en place.
 
-### Comparaison
+### Finalité
 Contrairement à Security Onion où tout est automatisé, un employé doit constamment être besoin pour l'utilisation de Wireshark pour pouvoir analyser le flux. <br>
 C'est pourquoi pour notre projet, nous utiliserons Security Onion pour plus de practicité.
 

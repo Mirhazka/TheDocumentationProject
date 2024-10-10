@@ -78,7 +78,12 @@
 
 <details>
 <summary><strong><font size="+1">Configuration du système</font></strong></summary>
-TEXTE
+
+1. Configuration des outils Security Onion.
+2. Configurer des alertes et des dashboards afin de montrer les notifications en temps réel (Kibana) pour visualiser les logs de manière compréhensible :
+- Exemples : graphiques des alertes, logs de connexion.
+3. Mettre en place des règles de pare-feu pour interdire l'accès aux adresses IP suspectes.
+
 
 </details>
 <HR>

@@ -45,12 +45,6 @@ Ce projet nous a permit de voir la vulnérabilité d'un réseau et nous a appris
 </details>
 <HR>
 
-
-
-
-
-
-
 <details>
 <summary><strong><font size="+1">Membres du groupe du projet</font></strong></summary>
 
@@ -90,11 +84,17 @@ Hamza | Scrum Master |
 <details>
 <summary><strong><font size="+1">Nos choix techniques</font></strong></summary>
 
-  * Machine cliente
-    * Windows
-    * Ubuntu
-  * Machine serveur
-    * Serveur Linux CentOS propre à Security Onion
+### Machine cliente
+Le client peut être soit sous Ubuntu soit sous Windows avec la configuration suivante :
+  * Nom
+  * Compte utilisateur
+  * Mot de passe
+  * Adresse IP Fixe
+Pour plus de détail, allez au chapitre **Installation des postes clients** de la documentation pour les administrateurs.
+
+### Machine serveur
+Security Onion dispose de son propre système d'exploitation.<br>
+Il sera de type Linux CentOS.
 
 </details>
 <HR>

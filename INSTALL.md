@@ -55,7 +55,7 @@ Nous avons donc choisi de faire une démonstration sous Linux Ubuntu pour la mah
 2.Suivez les instructions, complétez l'installation, puis redémarrez.
 
 <br>
-3. Après cela, il suffit de se connecter avec le nom d'utilisateur et le mot de passe prédéfinis dans le cadre du processus d'installation. a voir avec le clien
+3. Après cela, il suffit de se connecter avec le nom d'utilisateur et le mot de passe prédéfinis dans le cadre du processus d'installation. (voir avec le client) 
 <br>
 4. L'installation de Security Onion démarre automatiquement. Dans le cas où vous seriez amené à quitter l’installation , il vous suffit juste  de vous déconnecter de votre compte, de vous reconnecter et l’installation démarrera d'elle-même. Si cela ne fonctionne pas, vous pouvez l'exécuter manuellement comme suit :
 

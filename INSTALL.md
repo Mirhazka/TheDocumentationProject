@@ -45,14 +45,25 @@ Nous avons donc choisi de faire une démonstration sous Linux Ubuntu pour la mah
 <div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/01_grub.webp" alt="Installation" width="50%"/></div>
 <br>
 
-1-installation de logiciel Sécurity Onion avec une image Iso https://docs.securityonion.net/en/2.4/download.html#download
+<br> 
+1. installation de logiciel Sécurity Onion avec une image Iso 
+   https://docs.securityonion.net/en/2.4/download.html#download
 
-<br> 2-Suivez les instructions, complétez l'installation, puis redémarrez.
-<br>
 
- 
-Explication d'installation de la machine Linux CentOS Security Onion. <br>
+<br> 
+
+2.Suivez les instructions, complétez l'installation, puis redémarrez.
+
 <br>
+3. Après cela, il suffit de se connecter avec le nom d'utilisateur et le mot de passe prédéfinis dans le cadre du processus d'installation. a voir avec le clien
+<br>
+4. L'installation de Security Onion démarre automatiquement. Dans le cas où vous seriez amené à quitter l’installation , il vous suffit juste  de vous déconnecter de votre compte, de vous reconnecter et l’installation démarrera d'elle-même. Si cela ne fonctionne pas, vous pouvez l'exécuter manuellement comme suit :
+
+       [sudo SecurityOnion/setup/so-setup iso]
+   
+
+
+ <br>
      
  [lien installation](https://docs.securityonion.net/en/2.4/installation.html)
 

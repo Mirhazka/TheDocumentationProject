@@ -29,7 +29,7 @@ Cette documentation indiquera :
 <summary><strong><font size="+1">Installation du poste client</font></strong></summary>
 <br>
 Ce n'est pas une obligation d'être sous un OS prédéterminé pour les machines clientes. <br>
-Nous avons donc choisi de faire une démonstration sous Linux Ubuntu
+Nous avons donc choisi de faire une démonstration sous Linux Ubuntu pour la mahcine utilisateur.
 
 ### Machine Ubuntu
   * Nom : **CLILIN01**
@@ -42,7 +42,8 @@ Nous avons donc choisi de faire une démonstration sous Linux Ubuntu
 
 <details>
 <summary><strong><font size="+1">Installation du poste serveur Linux CentOS de Security Onion</font></strong></summary>
-Explication d'installation de la VM Linux CentOS Security Onion.
+Explication d'installation de la machine Linux CentOS Security Onion. <br>
+ 
 [lien installation](https://docs.securityonion.net/en/2.4/installation.html)
 
 </details>
@@ -53,11 +54,9 @@ Explication d'installation de la VM Linux CentOS Security Onion.
 
 <details>
 <summary><strong><font size="+1">Configuration du système</font></strong></summary>
-Explication de la configuration du système après installation des VM.
+Explication de la configuration du système après installation des machines.
 <br>
-Côté serveur.
-<br>
-Côté client.
+ 
 [Lien de configuration](https://docs.securityonion.net/en/2.4/configuration.html#configuration)
 
 </details>

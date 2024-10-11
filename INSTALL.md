@@ -43,6 +43,7 @@ Nous avons donc choisi de faire une démonstration sous Linux Ubuntu
 <details>
 <summary><strong><font size="+1">Installation du poste serveur Linux CentOS de Security Onion</font></strong></summary>
 Explication d'installation de la VM Linux CentOS Security Onion.
+[lien installation](https://docs.securityonion.net/en/2.4/installation.html)
 
 </details>
 
@@ -57,6 +58,7 @@ Explication de la configuration du système après installation des VM.
 Côté serveur.
 <br>
 Côté client.
+[Lien de configuration](https://docs.securityonion.net/en/2.4/configuration.html#configuration)
 
 </details>
 <HR>

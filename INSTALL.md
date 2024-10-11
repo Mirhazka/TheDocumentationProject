@@ -43,13 +43,19 @@ Nous avons donc choisi de faire une démonstration sous Linux Ubuntu pour la mah
 <details>
 <summary><strong><font size="+1">Installation du poste serveur Linux CentOS de Security Onion</font></strong></summary>
 Explication d'installation de la machine Linux CentOS Security Onion. <br>
- 
-[lien installation](https://docs.securityonion.net/en/2.4/installation.html)
+<br>
+     
+ [lien installation](https://docs.securityonion.net/en/2.4/installation.html)
 
-</details>
+ </details>
+ </details>
+<br> 1-installation de logiciel Sécurity Onion avec une image Iso https://docs.securityonion.net/en/2.4/download.html#download
 
-  
-</details>
+<br> 2-Suivez les instructions, complétez l'installation, puis redémarrez.
+<br>
+   
+   
+
 <HR>
 
 <details>

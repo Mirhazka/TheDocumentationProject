@@ -46,28 +46,30 @@ Nous avons donc choisi de faire une démonstration sous Linux Ubuntu pour la mah
 <br>
 
 <br> 
-1. installation de logiciel Sécurity Onion avec une image Iso 
+ 
+ 1. installation de logiciel Sécurity Onion avec une image Iso 
    https://docs.securityonion.net/en/2.4/download.html#download
 
 
-<br> 
+ <br> 
 
-2.Suivez les instructions, complétez l'installation, pfaire uis redémarrez.
-<br>
-3.  Lancez l'ISO sur une machine qui respecte les spécifications matérielles minimales.
+ 2.Suivez les instructions, complétez l'installation, pfaire uis redémarrez.
+ 
+ <br>
 
-<br>
-
-4. Vous pourriez avoir à retirer l'image ISO ou à ajuster les paramètres de démarrage de votre machine pour pouvoir démarrer avec le nouvel OS que vous avez installé.
-
+ 3.  Lancez l'ISO sur une machine qui respecte les spécifications matérielles minimales.
 
 <br>
-5. Après cela, il suffit de se connecter avec le nom d'utilisateur et le mot de passe prédéfinis dans le cadre du processus d'installation. (voir avec le client) 
+
+ 4. Vous pourriez avoir à retirer l'image ISO ou à ajuster les paramètres de démarrage de votre machine pour pouvoir démarrer avec le nouvel OS que vous avez installé.
+
 <br>
 
+ 5. Après cela, il suffit de se connecter avec le nom d'utilisateur et le mot de passe prédéfinis dans le cadre du processus d'installation. (voir avec le client) 
+<br>
 
 <br>
-6. L'installation de Security Onion démarre automatiquement. Dans le cas où vous seriez amené à quitter l’installation , il vous suffit juste  de vous déconnecter de votre compte, de vous reconnecter et l’installation démarrera d'elle-même. Si cela ne fonctionne pas, vous pouvez l'exécuter manuellement comme suit :
+ 6. L'installation de Security Onion démarre automatiquement. Dans le cas où vous seriez amené à quitter l’installation , il vous suffit juste  de vous déconnecter de votre compte, de vous reconnecter et l’installation démarrera d'elle-même. Si cela ne fonctionne pas, vous pouvez l'exécuter manuellement comme suit :
 
        [sudo SecurityOnion/setup/so-setup iso]
    

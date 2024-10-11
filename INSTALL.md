@@ -42,32 +42,25 @@ Nous avons donc choisi de faire une démonstration sous Linux Ubuntu pour la mah
 
 <details>
 <summary><strong><font size="+1">Installation du poste serveur Linux CentOS de Security Onion</font></strong></summary>
-<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/01_grub.webp" alt="Installation" width="50%"/></div>
+
+### Security Onion
+[Security Onion](https://securityonionsolutions.com/) est un outils pour détecter, surveiller et réagir immédiatement aux incidents de sécurité sur votre réseau.
+
+Voici le [lien installation](https://docs.securityonion.net/en/2.4/installation.html) & ci-dessous, vous trouverez les différentes étapes d'installations du logiciel qui a son propre OS : Linux Serveur CentOS.
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/01_grub.webp" alt="Installation" width="50%"/></div>
 <br>
 
-<br> 
-1. installation de logiciel Sécurity Onion avec une image Iso 
-   https://docs.securityonion.net/en/2.4/download.html#download
+1. Téléchargez et vérifiez l'image ISO avec son image [ISO](https://docs.securityonion.net/en/2.4/download.html#download)
+2. Démarrez l'ISO sur une machine qui répond aux spécifications matérielles minimales.
+3. Une fois la machine lancé, suivre les étapes d'installation du logiciel qui est directif.
+4. Vous pourriez avoir à retirer l'image ISO ou à ajuster les paramètres de démarrage de votre machine pour pouvoir démarrer avec le nouvel OS que vous avez installé.
+5. Après cela, il suffit de se connecter avec le nom d'utilisateur et le mot de passe prédéfinis dans le cadre du processus d'installation.
+6. L'installation de Security Onion démarre automatiquement.  
+   Dans le cas où vous seriez amené à quitter l'installation, il vous suffit juste de vous déconnecter de votre compte, de vous reconnecter et l'installation démarrera d'elle-même.
+   Si cela ne fonctionne pas, vous pouvez l'exécuter manuellement comme suit dans un terminal de commande :
+   > sudo SecurityOnion/setup/so-setup iso
 
-
-<br> 
-
-2.Suivez les instructions, complétez l'installation, puis redémarrez.
-
-<br>
-3. Après cela, il suffit de se connecter avec le nom d'utilisateur et le mot de passe prédéfinis dans le cadre du processus d'installation. (voir avec le client) 
-<br>
-4. L'installation de Security Onion démarre automatiquement. Dans le cas où vous seriez amené à quitter l’installation , il vous suffit juste  de vous déconnecter de votre compte, de vous reconnecter et l’installation démarrera d'elle-même. Si cela ne fonctionne pas, vous pouvez l'exécuter manuellement comme suit :
-
-       [sudo SecurityOnion/setup/so-setup iso]
-   
-
-
- <br>
-     
- [lien installation](https://docs.securityonion.net/en/2.4/installation.html)
-
- </details>
+</details>
  
    
 

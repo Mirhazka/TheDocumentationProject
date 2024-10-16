@@ -114,7 +114,7 @@ Il sera de type Linux CentOS.
 <details>
 <summary><strong><font size="+1">Les difficultés rencontrées</font></strong></summary>
 
-Ceci est du texte
+
 
 
 
@@ -135,9 +135,10 @@ Ceci est du texte
 <details>
 <summary><strong><font size="+1">Les solutions trouvées</font></strong></summary>
 
-Ceci est du texte
+<br> 
+  -Rechercher davantage de documentation officielle afin d'approfondir la compréhension du sujet et d'améliorer la présentation.
 
-</details>
+
 <HR>
 
 

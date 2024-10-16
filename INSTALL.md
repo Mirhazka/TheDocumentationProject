@@ -68,6 +68,14 @@ Voici le [lien installation](https://docs.securityonion.net/en/2.4/installation.
 
 <details>
 <summary><strong><font size="+1">Configuration du système</font></strong></summary>
+Security Onion est conçu pour de nombreux cas d'utulisation différentes. En voici quelques exemples :
+  * Import
+    
+  * Evaluation
+  * Production Server - Standalone
+  * Production Server - Distributed Deployment 
+
+
 Explication de la configuration du système après installation des machines.
 <br>
  

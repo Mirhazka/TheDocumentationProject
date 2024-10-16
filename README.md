@@ -112,8 +112,9 @@ Ci-dessous, une liste des difficultés rencontrées :
 <details>
 <summary><strong><font size="+1">Les solutions trouvées</font></strong></summary>
 
-  -Rechercher davantage de documentation officielle afin d'approfondir la compréhension du sujet et d'améliorer la présentation.
-
+  .Rechercher davantage de documentation officielle afin d'approfondir la compréhension du sujet et d'améliorer la 
+   présentation.
+      **https://github.com/Security-Onion-Solutions/securityonion/tree/2.4/main/setup**
 </details>
 
 <HR>

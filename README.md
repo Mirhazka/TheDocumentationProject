@@ -34,6 +34,7 @@ Ce projet est livré avec trois documentations :
 </dl>
 
 </details>
+
 <HR>
 
 <details>
@@ -43,6 +44,7 @@ Ce projet est livré avec trois documentations :
 Ce projet nous a permit de voir la vulnérabilité d'un réseau et nous a appris à comment se protéger et détecter les intrusions.
  
 </details>
+
 <HR>
 
 <details>
@@ -71,15 +73,10 @@ Membre | Rôles | Tâches
 --- | --- | ---
 Sybill | Product Owner | 
 Hamza | Scrum Master | 
+
 </details>
+
 <HR>
-
-
-
-
-
-
-
 
 <details>
 <summary><strong><font size="+1">Nos choix techniques</font></strong></summary>
@@ -97,55 +94,29 @@ Security Onion dispose de son propre système d'exploitation.<br>
 Il sera de type Linux CentOS.
 
 </details>
+
 <HR>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <details>
 <summary><strong><font size="+1">Les difficultés rencontrées</font></strong></summary>
 
+Ci-dessous, une liste des difficultés rencontrées :
+1. Utilisation du Markdown pour structurer la documentation et l'implémenter
+2. Mettre en œuvre la présentation en raison de la complexité technique du projet.
+3. Appliquer la méthode agile SCRUM
 
-
-
-
-<br>
-     1- Utilisation du markdown pour structurer la documentation et l'implémenter.
-<br>
-     2- Difficulté à mettre en œuvre la présentation en raison de la complexité technique du projet. 
+</details>
 
 <HR>
-
-
-
-
-
-
-
 
 <details>
 <summary><strong><font size="+1">Les solutions trouvées</font></strong></summary>
 
-<br> 
   -Rechercher davantage de documentation officielle afin d'approfondir la compréhension du sujet et d'améliorer la présentation.
 
+</details>
 
 <HR>
-
-
-
-
-
-
 
 <details>
 <summary><strong><font size="+1">Les améliorations possibles</font></strong></summary>

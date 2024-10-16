@@ -31,20 +31,21 @@ Cette documentation indiquera :
 
 Le poste client peut être sur n'importe quel type d'OS, qu'il soit sous Linux ou Windows.<br>
 Ci-dessous, vous verrez les différentes configuration sous Ubuntu puis sous Windows.
+<br>
+<img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/1175077.webp" width="10%"/>
 
-### Machine Ubuntu
   * Nom : **CLILIN01**
   * Compte utilisateur : **wilder**
   * Mot de passe : **Azerty1***
   * Adresse IP fixe : **172.16.10.20/24**
-**IMAGE UBUNTU**
+<br>
+<img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/Windows_10_Logo.svg.png" width="20%"/>
 
-### Machine Windows
   * Nom : **CLIWIN01**
   * Compte utilisateur : **wilder**
   * Mot de passe : **Azerty1***
   * Adresse IP fixe : **172.16.10.21/24**
-**IMAGE WINDOWS**
+
 
 </details>
 <HR>
@@ -56,7 +57,7 @@ Ci-dessous, vous verrez les différentes configuration sous Ubuntu puis sous Win
 [Security Onion](https://securityonionsolutions.com/) est un outils pour détecter, surveiller et réagir immédiatement aux incidents de sécurité sur votre réseau.
 
 Voici le [lien installation](https://docs.securityonion.net/en/2.4/installation.html) & ci-dessous, vous trouverez les différentes étapes d'installations du logiciel qui a son propre OS : Linux Serveur CentOS.
-<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/01_grub.webp" alt="Installation" width="50%"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/01_grub.webp" width="50%"/></div>
 <br>
 
 1. Téléchargez et vérifiez l'image ISO avec son image [ISO](https://docs.securityonion.net/en/2.4/download.html#download)
@@ -78,15 +79,17 @@ Voici le [lien installation](https://docs.securityonion.net/en/2.4/installation.
 
 ### Configuration
 Security Onion est conçu pour de nombreux cas d'utilisation différentes.<br>
-**Image config_mode**
+<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/grafik-18.png" width="50%"/></div>
 <br>
 
 Voici le [lien de configuration](https://docs.securityonion.net/en/2.4/configuration.html#configuration) et ci-dessous vous trouverez quelques exemples de configuration :
   * Import
     > L'une des façons les plus simples de démarrer avec Security Onion consiste à l'utiliser pour analyser de manière médico- légale les fichiers *pcap* et les fichiers journaux.
-**IMAGE PCAP**
     > Sélectionnnez simplement l'**IMPORT** option, suivez les instructions, puis importez les fichiers pcap ou les journaux d'évènements à l'aide de la page **Grid**. <br>
-**IMAGE GRID**
+<div align="center"><h3>PCAP</h3></div>
+<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/62_pcap.png" width="75%"/></div>
+<div align="center"><h3>GRID</h3></div>
+<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/75_grid.png" width="75%"/></div>
     
   * Evaluation
     > Le mode *Evaluation* est idéal pour les salles de classe ou les petits laboratoires. Le mode d'éaluation n'est **pas** conçu pour une utilisation en production. Choisissez l'option **EVAL**, suivez les instructions puis passez au chapitre **Installation**.
@@ -99,18 +102,20 @@ Voici le [lien de configuration](https://docs.securityonion.net/en/2.4/configura
 Suivant la configuration choisi, il faut maintenant poursuivre sur l'installation.
 1. Ajuster les règles de pare-feu
 2. Vérifier que tous les services sont fonctionnels grâce à la page **Grid**  
-**IMAGE GRID**
 3. Il est possible de configurer une connection SSH si l'utilisateur ne souhaite pas utiliser la console de Security Onion.
 4. Allez dans *Administration* puis dans *Configuration* pour voir certaines options que vous souhaiteriez peut-être configurer.
-**IMAGE CONFIG**
+<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/87_config.png" width="75%"/></div>
+
 5. Toujours sur la page *Administration*, vous pouvez configurer votre serveur NTP si vous en avez un.
 6. Les analystes peuvent se connecter au système avec leur console dédié de **Security Onion Desktop**.
 7. Tout système IDS/NSM doit être réglé en fonction du réseau qu'il surveille. Cela permettra une meilleur *Détections d'intrusion*.
 <br>
 
 Voilà votre système configuré et installé. Vous pouvez dès maintenant allez sur les pages **Dashboards** & **Alerts** pour visualiser la sécurité de votre réseau!
-**IMAGE DASHBOARDS**
-**IMAGE ALERTS**
+<div align="center"><h3>Dashboard</h3></div>
+<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/53_dashboards.png" width="75%"/></div>
+<div align="center"><h3>Alerts</h3></div>
+<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/50_alerts.png" width="75%"/></div>
 
 <br>
 </details>

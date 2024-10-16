@@ -123,6 +123,7 @@ Voilà votre système configuré et installé. Vous pouvez dès maintenant allez
 
 <details>
 <summary><strong><font size="+1">La Foire Aux Questions !</font></strong></summary>
+<br>
 
 ***Questions : Qu'est-ce qu'un PCAP ?***<br>
 *Réponse*<br>
@@ -134,12 +135,12 @@ Les fichiers de journaux sont des fichiers générés par des logigiels et conte
 <br>
 ***Questions : Qu'est-ce qu'un serveur NTP?***<br>
 *Réponse*<br>
-NTP signifie : **N**etwork **T**ime **P**rotocol parfois appelé protocolede synchronisation de réseau. C'est un protocole qui permet de synchroniser, via un réseau infomatique, l'horloge locale d'ordinateurs sur une référence d'heure.<br>
+NTP signifie : **N**etwork **T**ime **P**rotocol, parfois appelé protocolede synchronisation de réseau. C'est un protocole qui permet de synchroniser, via un réseau infomatique, l'horloge locale d'ordinateurs sur une référence d'heure.<br>
 <br>
 ***Questions : Qu'est-ce qu'un système IDS/NSM?***<br>
 *Réponse*<br>
-NSM signifie : **N**etwork **S**ecurity **M**onitoring/
-
+IDS signifie : **I**ntrusion **D**etection **S**ystem, également appelé système de détection intrusion, il est chargé d'identifier les attaques et les techniques et est souvent déployé hors bande en mode écoute seule afin qu'il puisse analyser tout le trafic et générer des évènements d'intrusion à partir du trafic supect ou malveillant. <br>
+NSM signifie : **N**etwork **S**ecurity **M**onitoring, également appelé gestion des système sen réseau est la gestion combinée des fonctions informatiques et des réseaux au sein d'une organisation.
 
 </details>
 <HR>

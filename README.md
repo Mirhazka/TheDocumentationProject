@@ -115,7 +115,14 @@ Il sera de type Linux CentOS.
 <summary><strong><font size="+1">Les difficultés rencontrées</font></strong></summary>
 
 Ceci est du texte
-</details>
+
+
+
+<br>
+     1- Utilisation du markdown pour structurer la documentation et l'implémenter.
+<br>
+     2- Difficulté à mettre en œuvre la présentation en raison de la complexité technique du projet. 
+
 <HR>
 
 

@@ -28,14 +28,23 @@ Cette documentation indiquera :
 <details>
 <summary><strong><font size="+1">Installation du poste client</font></strong></summary>
 <br>
-Ce n'est pas une obligation d'être sous un OS prédéterminé pour les machines clientes. <br>
-Nous avons donc choisi de faire une démonstration sous Linux Ubuntu pour la mahcine utilisateur.
+
+Le poste client peut être sur n'importe quel type d'OS, qu'il soit sous Linux ou Windows.<br>
+Ci-dessous, vous verrez les différentes configuration sous Ubuntu puis sous Windows.
 
 ### Machine Ubuntu
   * Nom : **CLILIN01**
   * Compte utilisateur : **wilder**
   * Mot de passe : **Azerty1***
   * Adresse IP fixe : **172.16.10.20/24**
+**IMAGE UBUNTU**
+
+### Machine Windows
+  * Nom : **CLIWIN01**
+  * Compte utilisateur : **wilder**
+  * Mot de passe : **Azerty1***
+  * Adresse IP fixe : **172.16.10.21/24**
+**IMAGE WINDOWS**
 
 </details>
 <HR>
@@ -61,8 +70,6 @@ Voici le [lien installation](https://docs.securityonion.net/en/2.4/installation.
    > sudo SecurityOnion/setup/so-setup iso
 
 </details>
- 
-   
 
 <HR>
 
@@ -111,7 +118,23 @@ Voilà votre système configuré et installé. Vous pouvez dès maintenant allez
 
 <details>
 <summary><strong><font size="+1">La Foire Aux Questions !</font></strong></summary>
-TEXTE
+
+***Questions : Qu'est-ce qu'un PCAP ?***<br>
+*Réponse*<br>
+Un PCAP (*paquet de capture*) est une interface de programmation permettant de capturer les paquets transitant sur le réseau. Les versions récentes permettent également de transmettre des paquets sur la couche de liaison.<br>
+<br>
+***Questions : Qu'est-ce qu'un fichier de journaux ?***<br>
+*Réponse*<br>
+Les fichiers de journaux sont des fichiers générés par des logigiels et contenant des informations sur les opérations, les activités et les modèles d'utilisation d'une application, d'un serveur ou d'un système informatique.<br>
+<br>
+***Questions : Qu'est-ce qu'un serveur NTP?***<br>
+*Réponse*<br>
+NTP signifie : **N**etwork **T**ime **P**rotocol parfois appelé protocolede synchronisation de réseau. C'est un protocole qui permet de synchroniser, via un réseau infomatique, l'horloge locale d'ordinateurs sur une référence d'heure.<br>
+<br>
+***Questions : Qu'est-ce qu'un système IDS/NSM?***<br>
+*Réponse*<br>
+NSM signifie : **N**etwork **S**ecurity **M**onitoring/
+
 
 </details>
 <HR>

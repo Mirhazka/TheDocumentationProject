@@ -50,9 +50,13 @@ C'est pourquoi pour notre projet, nous utiliserons Security Onion pour plus de p
 
 
 <details>
-<summary><strong><font size="+1">Utilisation avancée : Comment utiliser aux mieux les options</font></strong></summary>                                                                                                                                                                                                        
+<summary><strong><font size="+1">Utilisation avancée : Comment utiliser aux mieux les options</font></strong>
 
 
+
+
+</details>
+</summary>                                                                                                                                                                                                        
   **1-Personnalisation des règles de détection d'intrusion (IDS)**                                                                                                 snort et Suricata sont hautement personnalisables. Vous pouvez affiner les règles pour adapter la détection à le besoin spécifique de votre réseau. Également 
   désactiver des règles inutiles pour réduire les fausses alertes. Utilisez des groupes de règles adaptés à votre secteur d’activité pour surveiller des menaces 
   spécifiques. (par exemple, une tentative de connexion SSH non autorisée ou un scan de port
@@ -62,7 +66,7 @@ C'est pourquoi pour notre projet, nous utiliserons Security Onion pour plus de p
   **3-Faire des règles adapter** : Grâce aux groupes de règles adaptés, il est possible d'utiliser des ensembles de règles particuliers à votre secteur pour identifier les menaces les plus pertinentes. Cela réduit les fausses alertes et améliore l’efficacité de la surveillance.                                         
 
 <br>
- **https://www.snort.org/**                                                                                                                                                                                                                                                                                                          **https://suricata.io/**                                                                                                                                                                                                                                                                                                                                                                                                    
+ [snort] (https://www.snort.org/)                                                                                                                                                                                                          [suricata] (https://suricata.io/)                                                                                                                                                                                                                                                                                                                                                                                                   
 
                                                                    
                                                            

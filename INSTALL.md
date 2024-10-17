@@ -142,5 +142,7 @@ NTP signifie : **N**etwork **T**ime **P**rotocol, parfois appelé protocolede sy
 IDS signifie : **I**ntrusion **D**etection **S**ystem, également appelé système de détection intrusion, il est chargé d'identifier les attaques et les techniques et est souvent déployé hors bande en mode écoute seule afin qu'il puisse analyser tout le trafic et générer des évènements d'intrusion à partir du trafic supect ou malveillant. <br>
 NSM signifie : **N**etwork **S**ecurity **M**onitoring, également appelé gestion des système sen réseau est la gestion combinée des fonctions informatiques et des réseaux au sein d'une organisation.
 
+Pour plus de réponses à vos questions, voici le [FAQ](https://docs.securityonion.net/en/2.4/faq.html#) officiel de Security Onion.<br>
+
 </details>
 <HR>

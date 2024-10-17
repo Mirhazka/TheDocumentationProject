@@ -104,6 +104,10 @@ Ci-dessous, une liste des difficultés rencontrées :
 1. Utilisation du Markdown pour structurer la documentation et l'implémenter
 2. Mettre en œuvre la présentation en raison de la complexité technique du projet.
 3. Appliquer la méthode agile SCRUM
+4. En raison de notre objectif principal de développer une documentation complète associer un à un manque de temps, 
+   nous n'avons pas pu procéder à l'ensemble des tests techniques et approfondis pour une utilisation intégrale du 
+   logiciel de sécurité 
+
 
 </details>
 

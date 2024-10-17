@@ -13,19 +13,25 @@ Danse ce chapitre, nous vous parlerons de différents outils vous permettant une
 Pour rappel, Security Onion est un ensemble d'outils de surveillance et de détection avec une suite d'action qui s'enchaîne et se complète.<br>
 1. La surveillance du réseau avec l'outil **[Kibana](https://docs.securityonion.net/en/2.4/kibana.html)** et qui, en complément de Security Onion, permet de surveiller le réseau.
    > Connectez-vous à **Kibana** en utilisant le même nom d'utilisateur et le même mot de passe que ceux que vous utilisez pour Security Onion.  
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/config-item-kibana.webp" width="75%"/></div>
 
 2. La détection d'intrusion avec les outils **[Snort](https://www.snort.org/) / [Suricata](https://docs.securityonion.net/en/2.4/suricata.html) / [ElastAlert2](https://docs.securityonion.net/en/2.4/elastalert.html#elastalert) / [Strelka](https://docs.securityonion.net/en/2.4/strelka.html#strelka)** 
    > Ces outils sont des IDS, *Système de détection intrusion*, c'est un mécanisme déstiné à repérer des activités anormales ou suspectes sur la cible analysée (un réseau ou un hôte).
    > Pour **Snort**, ci-joint une [documentation](https://snort-org-site.s3.amazonaws.com/production/document_files/files/000/003/977/original/Snort_3_GA_on_CentOS_8_Stream.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAU7AK5ITMMOXGB2W5%2F20241017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241017T083802Z&X-Amz-Expires=172800&X-Amz-SignedHeaders=host&X-Amz-Signature=3df2f6787807c8e1dfd9864c51bfaeaf771bddc5e5c2eb4f6c7f20564f2a76fb) concernant son installation.
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/config-item-suricata.webp" width="75%"/></div>
 
 3. L'Analyse du réseau avec **[Zeek](https://docs.securityonion.net/en/2.4/zeek.html)** *(anciennement Bro)*
    > Il s'agit d'un dispositif d'analyse réseau qui collecte et sauvegarde des données détaillées concernant le trafic réseau, permettant ainsi une vue d'ensemble pour des analyses approfondies des activités. **Zeek** signale à la fois la perte de paquets et la perte de capture.
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/config-item-zeek.webp" width="75%"/></div>
 
 4. La gestion de la réponse à l'incident à travers **[Cases](https://docs.securityonion.net/en/2.4/cases.html)**.
    > Cet outils permet de faire remonter les journaux des **Alerts**, **Dashboards**, **Hunt** de votre console, puis d'affecter des anlaystes, d'ajouter des commentaires et des pièces jointes, et de suivre les observables. Ci-joint une [vidéo](https://www.youtube.com/watch?v=y_kr_hrtqVc&feature=youtu.be&themeRefresh=1) sur la plateforme YouTube pour une introduction à **Cases**.
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/57_0_cases.webp" width="75%"/></div>
 
 5. L'analyse post-incident avec **[NetworkMiner](https://docs.securityonion.net/en/2.4/networkminer.html)** et **[CyberChef](https://docs.securityonion.net/en/2.4/cyberchef.html)**..  
    > Ces deux outils permettent de renforcer les défenses et et prévenur de futures attaques.
+<div align="center"><h3>CyberChef</h3></div>
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/68_cyberchef.webp" width="75%"/></div>
 
 </details>
 
@@ -54,7 +60,7 @@ Votre console Security Onion inclut une interface de détection pour gérer tout
 Ci-joint une [vidéo](https://www.youtube.com/watch?v=DelAmqtU2hg&feature=youtu.be) YouTube qui vous permettra d'apprendre à modifier vos règles de détections.  
 <br>
 <div align="center"><h3>DETECTIONS</h3></div>
-<div align="center"><img src="" width="75%"/></div>
+<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/57_detections.png" width="75%"/></div>
 <br>
 
 ### Ajout de règles de détections
@@ -94,7 +100,11 @@ Pour les comptes utilisateur du système d'exploitation, lorsque vous installer 
 ***Questions : Comment ajouter un nouveau [compte utilisateur](https://docs.securityonion.net/en/2.4/adding-accounts.html#adding-accounts) ?***<br>
 *Réponse*<br>
 Si vous devez ajouter un nouveau compte utilisateur du système d'exploitation, vous pouvez utiliser la commande *adduser*.<br>
-Si vous devez ajouter un nouveau compte utilisateur Security Onion Console, accédez à l'interface d'administration, puis cliquez sur *Users*. CLiquez sur le bouton **+**, remplissez les informations nécessaires, puis cliquez sur le bouton **ADD**<br>
+Si vous devez ajouter un nouveau compte utilisateur Security Onion Console, accédez à l'interface d'administration, puis cliquez sur *Users*.<br>
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/81_users.webp" width="75%"/></div>
+
+Cliquez sur le bouton **+**, remplissez les informations nécessaires, puis cliquez sur le bouton **ADD**<br>
+<div align="center"><img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/83_users_add.webp" width="75%"/></div>
 <br>
 
 Pour plus de réponses à vos questions, voici le [FAQ](https://docs.securityonion.net/en/2.4/faq.html#) officiel de Security Onion.<br>

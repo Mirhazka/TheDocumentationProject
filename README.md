@@ -38,10 +38,9 @@ Ce projet est livré avec trois documentations :
 <HR>
 
 <details>
-<summary><strong><font size="+1">Introduction & mise en contexte</font></strong></summary>
+<summary><strong><font size="+1">Présentation du logiciel</font></strong></summary>
 
-> Dans le monde actuel, il est nécessaire de pouvoir se prémunir des dangers et des intrusions de la manière la plus efficace possible.<br>
-Ce projet nous a permit de voir la vulnérabilité d'un réseau et nous a appris à comment se protéger et détecter les intrusions.
+
  
 </details>
 
@@ -87,11 +86,14 @@ Le client peut être soit sous Ubuntu soit sous Windows avec la configuration su
   * Compte utilisateur
   * Mot de passe
   * Adresse IP Fixe
+Le client a souhaité d'avoir ses machines clientes sous Ubuntu.
 Pour plus de détail, allez au chapitre **Installation des postes clients** de la documentation pour les administrateurs.
 
 ### Machine serveur
-Security Onion dispose de son propre système d'exploitation.<br>
-Il sera de type Linux CentOS.
+Security Onion dispose de son propre système d'exploitation qui basé sur Linux CentOS.  
+Lors de l'installation de Security Onion sur une machine virtuelle, nous choisirons l'option *Import* qui est la plus basique et la plus simple version de Security Onion à utiliser.  
+Cependant, pour une utilisation approfondie, nous conseillons de prendre l'option *StandAlone* qui sera la plus simple à utiliser mais complète au niveaux de la configuration pour une production.  
+Pour plus de détail, allez au chapitre **Configuration & installation** de la documentation pour les administrateurs.
 
 </details>
 
@@ -101,16 +103,14 @@ Il sera de type Linux CentOS.
 <summary><strong><font size="+1">Les difficultés rencontrées</font></strong></summary>
 <br>
 
-### Difficultés personnelle
-Ci-dessous, une liste des difficultés rencontrées :
-1. Utilisation du Markdown pour structurer la documentation et l'implémenter.
-2. Appliquer la méthode agile SCRUM.
-3. En raison de la complexité du projet et du fait d'être une équipe de deux, nous nous sommes concentrés sur la recherche et documentation. De ce fait, nous n'avons pas pu procéder à l'ensemble des tests techniques et approfondis pour une utilisation intégrale du logiciel Security Onion.
-
-### Difficultés concernant Security Onion
-1. En raison de la complexité du logiciel et du fait qu'il propose un large spectre d'outils, la machine où sera installé Security Onion devra être assez puissante.  
-   Cela rajoute une problématique de coût. Or le client a choisi Security Onion du fait, le logiciel en lui même, qu'il est peu coûteux.
-2. Pour poursuire sur le large spectre d'outils que propose Security Onion, sans documentation ou tutoriel, il est vite facile de s'y perdre.
+Ci-dessous, une liste des difficultés que nous avons rencontrés lors de ce projet :
+  * Utilisation du Markdown pour structurer la documentation et l'implémenter
+  * Appliquer la méthode agile SCRUM
+  * En raison de la complexité du projet et du fait d'être une équipe de deux, nous nous sommes concentrés sur la recherche et documentation.  
+    De ce fait, nous n'avons pas pu procéder à l'ensemble des tests techniques et approfondis pour une utilisation intégrale du logiciel Security Onion.
+  * Du fait de la complexité du logiciel et qu'il propose un large spectre d'outils, la machine où sera installé Security Onion devra être assez puissante.
+    En conséquence, il faudra avoir un budget financier pour cette machine. Cependant le client a choisi Security Onion car il est OpenSource & **gratuit**.
+  * Pour poursuivre sur le large spectre d'outils que propose Security Onion, sans documentation ou tutoriel, il est vite facile de se perdre entre les outils proposés.
 
 </details>
 
@@ -120,7 +120,13 @@ Ci-dessous, une liste des difficultés rencontrées :
 <summary><strong><font size="+1">Les solutions trouvées</font></strong></summary>
 <br>
 
-Dans le chapitres **Les difficultés rencontrées**, nous avons parlé de la difficulté à trouver de la documentation sur Security Onion.<br>
+### La méthode agile Scrum
+Pour nous aider à appliquer la méthode agile Scrum, nous avons utilisés l'outils Trello qui nous a permit d'optimiser la gestion des tâches et de la coordination au sein de l'équipe.  
+Cela facilite le suivi de l'avancement du projet et favorise une collaboration harmonieuse de l'équipe.
+<br>
+
+### Documentation Security Onion
+Dans le chapitres **Les difficultés rencontrées**, nous avons parlé de la complexité de Security Onion et de son large spectre d'outils qu'il peut proposer.<br>
 En poursuivant nos recherches, nous avons trouvés un [dépôt](https://github.com/Security-Onion-Solutions/securityonion/tree/2.4/main) GitHub de Security Onion avec toute la documentation officielle.<br>
 Cela nous a permis d'approfondir notre compréhension du sujet et d'améliorer notre présentation.
 
@@ -130,10 +136,8 @@ Cela nous a permis d'approfondir notre compréhension du sujet et d'améliorer n
 
 <details>
 <summary><strong><font size="+1">Les améliorations possibles</font></strong></summary>
+<br>
 
-### La méthode agile Scrum
-Pour mettre en œuvre la méthode agile Scrum de manière efficace, l'utilisation d'outils spécialisés tel que Trello pourrait optimiser la gestion des tâches et la coordination au sein de l'équipe.<br>
-Cela facilite le suivi de l'avancement du projet et favorise une collaboration harmonieuse.<br<
 
 ### Suivi des mises à jour de la documentation officielle :
  

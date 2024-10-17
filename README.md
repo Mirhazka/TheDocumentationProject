@@ -38,14 +38,23 @@ Ce projet est livré avec trois documentations :
 <HR>
 
 <details>
-<summary><strong><font size="+1">Le logiciel Security Onion</font></strong></summary>
+<summary><strong><font size="+1">Introduction & mise en contexte</font></strong></summary>
+<br>
 
-<div align="center"><img src="" width="50%"/></div>
+Dans un monde où les cybermenaces sont en constante évolution, les entreprises doivent renforcer leur posture de sécurité.  
+**Security Onion** se positionne comme une solution robuste pour les organisations cherchant à améliorer leur détection d'intrusions et leur réponse aux incidents.  
+Grace à ses capacités de collecte de données, de visualisation et d'analyse, elle permet aux équipes de sécurité d'identifier rapidement les anomalies et les comportements suspects au sein de leur réseau.  
+<br>
+<div align="center"><img src="https://github.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/blob/main/Images/securitylogo.png" width="25%"/></div><br>
 
-[Security Onion](https://docs.securityonion.net/en/2.4/about.html) est une plateforme gratuite et OpenSource conçue par des défenseurs pour des défenseurs.  
+Les entreprises, *grans ou petites*, peuvent déployer Security Onion pour créer un environnement de sécurité proactive, où la surveillance continue et l'analyse approfondie des données leur permettent de réagir efficacement face aux cyberattaques.  
+En intégrant cette solution dnas leur infrastructure, elles se dotent d'un outil puissant pour sécuriser leurs actifs numériques et protéger leurs informations sensibles.  
+<br>
+
+De plus, [Security Onion](https://docs.securityonion.net/en/2.4/about.html) est une plateforme gratuite et OpenSource conçue par des défenseurs pour des défenseurs.  
 Elle comprend la visibilité du réseau, la visibilité de l'hôte, la détecttion d'intrusion avec la méthode **Honeypot**, la gestion des journaux et la gestion des cas.  
-Doug Burks a lancé Secuiry Onion en tant que projet libre et ouver en 2008 puis a fondé en 2014 : Security Onion Solutions.  
- 
+Doug Burks a lancé Secuiry Onion en tant que projet libre et ouvert en 2008 puis a fondé en 2014 : Security Onion Solutions.  
+
 </details>
 
 <HR>
@@ -142,14 +151,15 @@ Cela nous a permis d'approfondir notre compréhension du sujet et d'améliorer n
 <summary><strong><font size="+1">Les améliorations possibles</font></strong></summary>
 <br>
 
+### Généralités
+Dans un secteur informatique en constante évolution, il est essentiel de se tenir informé des dernières mises à jours logicielles et de consulter la documentation officielle des outils tels que **Zeek**, **Suricata**, **Kibana** & **Elasticsearch**. Cela permet d'adopter rapidement les nouvelles fonctionnalités et d'optimiser l'expérience utilisateur.  
+<br>
 
-### Suivi des mises à jour de la documentation officielle :
- 
-  Avec les changements rapides qui caractérisent le domaine de l’informatique, il est primordial de rester 
-  continuellement à jour sur les dernières actualisations logicielles et la documentation officielle de chaque 
-  outil (comme Zeek, Suricata, Kibana, ElasticSearch). Cela permettra d'intégrer rapidement les nouvelles 
-  fonctionnalités pour améliorer l'expérience utilisateur
-  
+### Exemple
+Encore aujourd'hui, nous trouvons des documentations et tutoriel sur Security Onion utilisant l'outils *TheHive*. Cependant, Security Onion n'utilise plus cet outils et l'a remplacé par *Cases*.  
+
+### Conclusion
+Cette vigilance face aux évolutions technologiques est indispensable pour garantir une sécurité renforcée et une efficacité optimale dans la gestion des systèmes d'information.
 
 
 </details>

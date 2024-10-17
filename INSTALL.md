@@ -10,9 +10,7 @@
 ### Généralités
 Disposer de :
   * Une machine serveur sous un OS Linux serveur CentOS où se trouvera Security Onion.
-  * Machine clientes sous n'importe quel OS.
-    Nous avons fait le choix de partir sous deux machines clientes avec deux OS différents.
-    Cela nous permettra de mieux visualiser les différences entre les OS suivant ce que souhaite le client.
+  * Machine clientes sous n'importe quel OS, que ce soit sous Ubuntu soit sous Windows.
 
 ### Security Onion
 Cliquez [ici](https://docs.securityonion.net/en/2.4/hardware.html), pour voir les spécificités requises pour une machine Security Onion. <br>
@@ -29,7 +27,6 @@ Cette documentation indiquera :
 <summary><strong><font size="+1">Installation du poste client</font></strong></summary>
 <br>
 
-Le poste client peut être sur n'importe quel type d'OS, qu'il soit sous Linux ou Windows.<br>
 Ci-dessous, vous verrez les différentes configuration sous Ubuntu puis sous Windows.
 <br>
 <img src="https://raw.githubusercontent.com/WildCodeSchool/TSSR-BDX-0924-P1-G3/refs/heads/main/Images/1175077.webp" width="10%"/>

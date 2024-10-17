@@ -38,9 +38,13 @@ Ce projet est livré avec trois documentations :
 <HR>
 
 <details>
-<summary><strong><font size="+1">Présentation du logiciel</font></strong></summary>
+<summary><strong><font size="+1">Le logiciel Security Onion</font></strong></summary>
 
+<div align="center"><img src="" width="50%"/></div>
 
+[Security Onion](https://docs.securityonion.net/en/2.4/about.html) est une plateforme gratuite et OpenSource conçue par des défenseurs pour des défenseurs.  
+Elle comprend la visibilité du réseau, la visibilité de l'hôte, la détecttion d'intrusion avec la méthode **Honeypot**, la gestion des journaux et la gestion des cas.  
+Doug Burks a lancé Secuiry Onion en tant que projet libre et ouver en 2008 puis a fondé en 2014 : Security Onion Solutions.  
  
 </details>
 

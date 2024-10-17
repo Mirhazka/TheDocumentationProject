@@ -8,13 +8,13 @@
 <summary><strong><font size="+1">Présentation du projet & des objectifs</font></strong></summary>
 
 ### _Présentation_
-Qu'est-ce que la surveillance de la sécurité du réseau ?<br>
+Qu'est-ce que la surveillance de la sécurité ?<br>
 Cela consiste à inspecter le trafic réseau et l'infrastructure informatique à la recherche de signes de problèmes de sécurité. Ces signes peuvent fournir aux équipes informatiques des informations précieuses sur la posture de cybersécurité de l'organisation.<br>
   * **_Exemple_** :  
     Les équipes de sécurité peuvent remarquer des modifications inhabituelles apportées aux politiques de contrôle d'accès. Cela peut entraîner des flux de trafic inattendus entre les systèmes sur site et les applications Web non reconnues. Cela peut permettre d'alerter rapidement en cas de cyberattaque active, ce qui donne aux équipes de sécurité suffisamment de temps pour mener des efforts de correction et empêcher la perte de données.
 
 ### _Objectif principal_
-Notre objectif principal est d'installer une plateforme de surveillance de sécurité réseau.<br>
+Notre objectif principal est d'installer une plateforme de surveillance de sécurité.<br>
 A la volonté du client, cette plateforme sera basé sur le logiciel Security Onion.<br>
 
 ### _Objectif secondaire_

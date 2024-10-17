@@ -42,7 +42,7 @@ Pour rappel, Security Onion est un ensemble d'outils de surveillance et de déte
 <br>
 
 ### Généralités
-Security Onion prend charge trois pricnipaux types de règles :
+Security Onion prend charge trois principaux types de règles :
 1. [NIDS](https://docs.securityonion.net/en/2.4/nids.html#nids)
     > Les règles **NIDS** sont chargées dans **[Suricata](https://docs.securityonion.net/en/2.4/suricata.html)** pour surveiller le trafic réseau et détecter toute activité suspecte ou notable.
     > Les règles **NIDS** actives génèrent des alertes qui peuvent être trouvées dans la page *Alerts*.

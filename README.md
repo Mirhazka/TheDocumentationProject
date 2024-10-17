@@ -64,15 +64,15 @@ Un Product Owner est le porteur de la vision du client et fait en sorte que sa v
 
 Membre | Rôles | Tâches  
 --- | --- | ---
-Sybill | Scrum Master | Recherche sur les plateformes de surveillance de sécurité réseau. <br> Création des fichiers Markdown sur GitHub.
+Sybill | Scrum Master | Recherche sur les plateformes de surveillance de sécurité. <br> Création des fichiers Markdown sur GitHub.
 Hamza | Product Owner | Recherche sur le logiciel Security Onion. <br> Recherche sur le serveur Linux CentOS pour Security Onion.
   
 ##### Semaine 2
 
 Membre | Rôles | Tâches  
 --- | --- | ---
-Sybill | Product Owner | 
-Hamza | Scrum Master | 
+Sybill | Product Owner | Finaliser le dépôt GitHub. <br> Création de la présentation.
+Hamza | Scrum Master | Recherche sur les règles de détection. <br> Installation de la machine virtuelle Security Onion.
 
 </details>
 
@@ -99,15 +99,18 @@ Il sera de type Linux CentOS.
 
 <details>
 <summary><strong><font size="+1">Les difficultés rencontrées</font></strong></summary>
+<br>
 
+### Difficultés personnelle
 Ci-dessous, une liste des difficultés rencontrées :
-1. Utilisation du Markdown pour structurer la documentation et l'implémenter
-2. Mettre en œuvre la présentation en raison de la complexité technique du projet.
-3. Appliquer la méthode agile SCRUM
-4. En raison de notre objectif principal de développer une documentation complète associer un à un manque de temps, 
-   nous n'avons pas pu procéder à l'ensemble des tests techniques et approfondis pour une utilisation intégrale du 
-   logiciel de sécurité 
+1. Utilisation du Markdown pour structurer la documentation et l'implémenter.
+2. Appliquer la méthode agile SCRUM.
+3. En raison de la complexité du projet et du fait d'être une équipe de deux, nous nous sommes concentrés sur la recherche et documentation. De ce fait, nous n'avons pas pu procéder à l'ensemble des tests techniques et approfondis pour une utilisation intégrale du logiciel Security Onion.
 
+### Difficultés concernant Security Onion
+1. En raison de la complexité du logiciel et du fait qu'il propose un large spectre d'outils, la machine où sera installé Security Onion devra être assez puissante.  
+   Cela rajoute une problématique de coût. Or le client a choisi Security Onion du fait, le logiciel en lui même, qu'il est peu coûteux.
+2. Pour poursuire sur le large spectre d'outils que propose Security Onion, sans documentation ou tutoriel, il est vite facile de s'y perdre.
 
 </details>
 
@@ -115,10 +118,12 @@ Ci-dessous, une liste des difficultés rencontrées :
 
 <details>
 <summary><strong><font size="+1">Les solutions trouvées</font></strong></summary>
+<br>
 
-   Rechercher davantage de documentation officielle afin d'approfondir la compréhension du sujet et d'améliorer la 
-   présentation.
-      **https://github.com/Security-Onion-Solutions/securityonion/tree/2.4/main/setup**
+Dans le chapitres **Les difficultés rencontrées**, nous avons parlé de la difficulté à trouver de la documentation sur Security Onion.<br>
+En poursuivant nos recherches, nous avons trouvés un [dépôt](https://github.com/Security-Onion-Solutions/securityonion/tree/2.4/main) GitHub de Security Onion avec toute la documentation officielle.<br>
+Cela nous a permis d'approfondir notre compréhension du sujet et d'améliorer notre présentation.
+
 </details>
 
 <HR>
@@ -126,13 +131,11 @@ Ci-dessous, une liste des difficultés rencontrées :
 <details>
 <summary><strong><font size="+1">Les améliorations possibles</font></strong></summary>
 
- ### utilisation d'outils pour mieux appliquer la methode Agile scrum :
-  Pour mettre en œuvre la méthode Agile de manière efficace, l'utilisation d'outils spécialisés tel que Trello 
-  pourrait optimiser la gestion des tâches et la coordination au sein de l'équipe, tout en facilitant le suivi de 
-  l'avancement du projet et en favorisant une collaboration harmonieuse
-  <br>
- 
- ### Suivi des mises à jour de la documentation officielle :
+### La méthode agile Scrum
+Pour mettre en œuvre la méthode agile Scrum de manière efficace, l'utilisation d'outils spécialisés tel que Trello pourrait optimiser la gestion des tâches et la coordination au sein de l'équipe.<br>
+Cela facilite le suivi de l'avancement du projet et favorise une collaboration harmonieuse.<br<
+
+### Suivi des mises à jour de la documentation officielle :
  
   Avec les changements rapides qui caractérisent le domaine de l’informatique, il est primordial de rester 
   continuellement à jour sur les dernières actualisations logicielles et la documentation officielle de chaque 

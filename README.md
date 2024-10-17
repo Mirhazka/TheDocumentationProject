@@ -112,7 +112,7 @@ Ci-dessous, une liste des difficultés rencontrées :
 <details>
 <summary><strong><font size="+1">Les solutions trouvées</font></strong></summary>
 
-  .Rechercher davantage de documentation officielle afin d'approfondir la compréhension du sujet et d'améliorer la 
+   Rechercher davantage de documentation officielle afin d'approfondir la compréhension du sujet et d'améliorer la 
    présentation.
       **https://github.com/Security-Onion-Solutions/securityonion/tree/2.4/main/setup**
 </details>
@@ -122,7 +122,20 @@ Ci-dessous, une liste des difficultés rencontrées :
 <details>
 <summary><strong><font size="+1">Les améliorations possibles</font></strong></summary>
 
-Ceci est du texte
+ ### utilisation d'outils pour mieux appliquer la methode Agile scrum :
+  Pour mettre en œuvre la méthode Agile de manière efficace, l'utilisation d'outils spécialisés tel que Trello 
+  pourrait optimiser la gestion des tâches et la coordination au sein de l'équipe, tout en facilitant le suivi de 
+  l'avancement du projet et en favorisant une collaboration harmonieuse
+  <br>
+ 
+ ### Suivi des mises à jour de la documentation officielle :
+ 
+  Avec les changements rapides qui caractérisent le domaine de l’informatique, il est primordial de rester 
+  continuellement à jour sur les dernières actualisations logicielles et la documentation officielle de chaque 
+  outil (comme Zeek, Suricata, Kibana, ElasticSearch). Cela permettra d'intégrer rapidement les nouvelles 
+  fonctionnalités pour améliorer l'expérience utilisateur
+  
+
 
 </details>
 <HR>

@@ -130,6 +130,9 @@ Ci-dessous, une liste des difficultés que nous avons rencontrés lors de ce pro
   * Pour poursuivre sur le large spectre d'outils que propose Security Onion, sans documentation ou tutoriel, il 
     est vite facile de se perdre entre les outils proposés.
 
+  * L'installation présente un niveau de complexité élevé et demande une connaissance approfondie dans la mise en 
+    place des logiciels, surtout en ce qui concerne les réseaux avant d'initialiser la configuration du système. 
+
 </details>
 
 <HR>

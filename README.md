@@ -119,11 +119,16 @@ Pour plus de détail, allez au chapitre **Configuration & installation** de la d
 Ci-dessous, une liste des difficultés que nous avons rencontrés lors de ce projet :
   * Utilisation du Markdown pour structurer la documentation et l'implémenter
   * Appliquer la méthode agile SCRUM
-  * En raison de la complexité du projet et du fait d'être une équipe de deux, nous nous sommes concentrés sur la recherche et documentation.  
-    De ce fait, nous n'avons pas pu procéder à l'ensemble des tests techniques et approfondis pour une utilisation intégrale du logiciel Security Onion.
-  * Du fait de la complexité du logiciel et qu'il propose un large spectre d'outils, la machine où sera installé Security Onion devra être assez puissante.
-    En conséquence, il faudra avoir un budget financier pour cette machine. Cependant le client a choisi Security Onion car il est OpenSource & **gratuit**.
-  * Pour poursuivre sur le large spectre d'outils que propose Security Onion, sans documentation ou tutoriel, il est vite facile de se perdre entre les outils proposés.
+  * En raison de la complexité du projet et de son objectif centré sur la recherche et la documentation. Nous 
+    n'avons pas été en mesure de réaliser tous les tests techniques et approfondis nécessaires pour une utilisation 
+    complète du logiciel Security Onion. Nous sommes donc amenés à privilégier une présentation qui met l'accent 
+    sur les aspects théoriques plutôt que techniques. 
+  * Du fait de la complexité du logiciel et qu'il propose un large spectre d'outils, la machine où sera installé 
+    Security Onion devra être assez puissante.
+    En conséquence, il faudra avoir un budget financier pour cette machine. Cependant le client a choisi Security 
+    Onion car il est OpenSource & **gratuit**.
+  * Pour poursuivre sur le large spectre d'outils que propose Security Onion, sans documentation ou tutoriel, il 
+    est vite facile de se perdre entre les outils proposés.
 
 </details>
 

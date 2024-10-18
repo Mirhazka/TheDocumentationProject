@@ -128,7 +128,7 @@ Un PCAP (*paquet de capture*) est une interface de programmation permettant de c
 <br>
 ***Questions : Qu'est-ce qu'un fichier de journaux ?***<br>
 *Réponse*<br>
-Les fichiers de journaux sont des fichiers générés par des logigiels et contenant des informations sur les opérations, les activités et les modèles d'utilisation d'une application, d'un serveur ou d'un système informatique.<br>
+Les fichiers de journaux sont des fichiers générés par des logiciels et contenant des informations sur les opérations, les activités et les modèles d'utilisation d'une application, d'un serveur ou d'un système informatique.<br>
 <br>
 ***Questions : Qu'est-ce qu'un serveur NTP?***<br>
 *Réponse*<br>

@@ -13,7 +13,7 @@ Disposer de :
   * Machine clientes sous n'importe quel OS, que ce soit sous Ubuntu ou sous Windows.
 
 ### Security Onion
-Cliquez [ici](https://docs.securityonion.net/en/2.4/hardware.html), pour voir les spécificités requises pour une machine Security Onion. <br>
+Ce [lien](https://docs.securityonion.net/en/2.4/hardware.html) vous permettra de visualiser l'ensemble des prérequis demandé pa Security Onion.<br>
 Cette documentation indiquera :
   * Configuration matérielle requise
   * Architecture du processeur

@@ -21,7 +21,7 @@ A la volonté du client, cette plateforme sera basé sur le logiciel Security On
 Notre objectif secondaire est de mettre en place des règles de détection intrusion sur le réseau du client.
 
 ### _Les livrables_
-Ce projet est livré avec trois documentations :
+Ce projet est livré avec trois documentations que vous trouverez ci-dessous.
 <dl>
   <dt>README - Documentation Générale</dt>
   <dd>Ce document est une présentation générale de notre projet.</dd>
@@ -52,7 +52,7 @@ En intégrant cette solution dnas leur infrastructure, elles se dotent d'un outi
 <br>
 
 De plus, [Security Onion](https://docs.securityonion.net/en/2.4/about.html) est une plateforme gratuite et OpenSource conçue par des défenseurs pour des défenseurs.  
-Elle comprend la visibilité du réseau, la visibilité de l'hôte, la détecttion d'intrusion avec la méthode **Honeypot**, la gestion des journaux et la gestion des cas.  
+Elle comprend la visibilité du réseau, la visibilité de l'hôte, la détecttion d'intrusion, la gestion des journaux et la gestion des cas.  
 Doug Burks a lancé Secuiry Onion en tant que projet libre et ouvert en 2008 puis a fondé en 2014 : Security Onion Solutions.  
 
 </details>
@@ -98,7 +98,7 @@ Le client peut être soit sous Ubuntu soit sous Windows avec la configuration su
   * Nom
   * Compte utilisateur
   * Mot de passe
-  * Adresse IP Fixe
+  * Adresse IP Fixe  
 Le client a souhaité d'avoir ses machines clientes sous Ubuntu.
 Pour plus de détail, allez au chapitre **Installation des postes clients** de la documentation pour les administrateurs.
 
